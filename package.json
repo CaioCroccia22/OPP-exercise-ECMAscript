@@ -1,0 +1,18 @@
+{
+  "name": "ecmascriptexercise",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "browserslist": "> 0.25%",
+    "build": "babel src -d dist --watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@babel/cli": "^7.27.0",
+    "@babel/core": "^7.26.10"
+  }
+}
